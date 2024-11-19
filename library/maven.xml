@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<maven>
+    <artifacts>nabu:eai-module-http-icap</artifacts>
+    <encapsulated>false</encapsulated>
+    <internalDomains>nabu</internalDomains>
+    <provided>be.nabu.libs.resources:resources-api</provided>
+    <provided>be.nabu.libs.events:events-api</provided>
+    <provided>be.nabu.libs.http:http-core</provided>
+    <updateSnapshots>false</updateSnapshots>
+</maven>
